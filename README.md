@@ -1,0 +1,1 @@
+Simple Hive UDFs for the Datawarehousing Insider
